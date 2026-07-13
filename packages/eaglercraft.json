@@ -1,6 +1,7 @@
 {
   "title": "Polytrack",
-  "version": "1.0.0",
+  "version": "0.6.2",
   "description": "Try to beat your previous time in a fast-paced, engaging racing game.",
-  "creator": "Kodub"
+  "creator": "Kodub",
+  "play-url": "https://kodub.itch.io/polytrack"
 }
